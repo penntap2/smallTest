@@ -10,6 +10,9 @@ I made a change!
 // addret.cpp : implementation file
 //
 
+This is a new change.
+
+
 #include "stdafx.h"
 #include "edit.h"
 #include "addret.h"
