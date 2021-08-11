@@ -12,6 +12,7 @@ I made a change!
 
 This is a new change.
 This is a new change.
+This is a new change.
 
 
 #include "stdafx.h"
