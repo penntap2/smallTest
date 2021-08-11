@@ -27,6 +27,8 @@ BEGIN_MESSAGE_MAP(COpenAdrBar, CUEPane)
   ON_WM_SIZE()
 END_MESSAGE_MAP()
 
+// My new change is here!
+
 COpenAdrBar::COpenAdrBar()
 {
 
